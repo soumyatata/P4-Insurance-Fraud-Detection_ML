@@ -1,9 +1,9 @@
 # Your Project Name
 
 ## Description
-A short description of your project.
+This project aims to detect insurance fraud using machine learning techniques.
 
-## Installation
+## Basic Installation
 1. Clone the repository.
 2. Create and activate a virtual environment:
     ```bash
@@ -15,8 +15,18 @@ A short description of your project.
     pip install -r requirements.txt
     ```
 
-## Usage
-Instructions on how to use your project.
+
+## Data Cleaning and Preprocessing
+
+The `data_preprocessing.py` file contains functions for loading, cleaning, and encoding the raw insurance dataset:
+1. **Load Data**: Load raw data from CSV.
+2. **Clean Data**: Clean the data by:
+   - Dropping unnecessary columns.
+   - Handling missing values.
+   - Encoding categorical variables as integers.
+
+##  Running data preprocessing script
+
 
 ## Running Tests
 Instructions on how to run tests.
