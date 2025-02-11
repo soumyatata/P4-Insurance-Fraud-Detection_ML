@@ -1,4 +1,4 @@
-# Your Project Name
+# Insurance Fraud Detection
 
 ## Description
 This project aims to detect insurance fraud using machine learning techniques.
