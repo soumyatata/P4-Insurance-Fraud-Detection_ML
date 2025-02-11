@@ -1,0 +1,29 @@
+# Python Bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+.env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.cache/
+
+# Distribution / Packaging
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.whl
+
+# Operating system files
+.DS_Store
+Thumbs.db
