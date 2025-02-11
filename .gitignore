@@ -30,4 +30,4 @@ Thumbs.db
 
 # Ignore CSV files
 *.csv
-data/cleaned_data.csv
+data/*.csv
